@@ -1,0 +1,58 @@
+Oliver Kullmann, 31.12.2009 (Swansea)
+--------------------------------------
+
+@Book{Penrose2004Physik,
+  author =       {Roger Penrose},
+  title =        {The Road to Reality},
+  publisher =    {Vintage Books},
+  year =         2004,
+  note =         {ISBN 0-099-44068-7},
+  annote =       {Vorhanden.}
+}
+
+Kopiert aus meinem "BuchAnalysisGeometrie.tex":
+
+\item\label{item:Durcharbeitung_Penrose2004Physik} Roger Penrose \textit{The Road to Reality} \cite{Penrose2004Physik} [Vorgabe: bis Ende 2018 bearbeitet]
+  \begin{enumerate}[1]
+  \item \Qu{The roots of science}
+    \begin{enumerate}[.1]
+    \item \Qu{The quest for the forces that shape the world}: In Bearbeitung.
+    \item \Qu{Mathematical truth}: In Bearbeitung.
+    \item \Qu{Is Plato's mathematical world `real'?}: In Bearbeitung.
+    \item \Qu{Three worlds, and three deep mysteries}: In Bearbeitung.
+    \item \Qu{The Good, the True, and the Beautiful}: In Bearbeitung.
+    \end{enumerate}
+  \item \Qu{An ancient theorem and a modern question}
+  \item \Qu{Kinds of number in the physical world}
+  \item \Qu{Magical complex numbers}
+  \item \Qu{Geometry of logarithms, powers, and roots}
+  \item \Qu{Real-number calculus}
+  \item \Qu{Complex-number calculus}
+  \item \Qu{Riemann surfaces and complex mappings}
+  \item \Qu{Fourier decomposition and hyperfunctions}
+  \item \Qu{Surfaces}
+  \item \Qu{Hypercomplex numbers}
+  \item \Qu{Manifolds of $n$ dimensions}
+  \item \Qu{Symmetry groups}
+  \item \Qu{Calculus on manifolds}
+  \item \Qu{Fibre bundles and gauge connections}
+  \item \Qu{The ladder of infinity}
+  \item \Qu{Spacetime}
+  \item \Qu{Minkowskian geometry}
+  \item \Qu{The classical fields of Maxwell and Einstein}
+  \item \Qu{Lagrangians and Hamiltonians}
+  \item \Qu{The quantum particle}
+  \item \Qu{Quantum algebra, geometry, and spin}
+  \item \Qu{The entangled quantum world}
+  \item \Qu{Dirac's electron and antiparticles}
+  \item \Qu{The standard model of particle physics}
+  \item \Qu{Quantum field theory}
+  \item \Qu{The Big Bang and its thermodynamic legacy}
+  \item \Qu{Speculative theories of the early univers}
+  \item \Qu{The measurement paradox}
+  \item \Qu{Gravity's role in quantum state reduction}
+  \item \Qu{Supersymmetry, supra-dimensionality, and strings}
+  \item \Qu{Einstein's narrower path; loop variables}
+  \item \Qu{More radical perspectives; twistor theory}
+  \item \Qu{Where lies the road to reality?}
+  \end{enumerate}
